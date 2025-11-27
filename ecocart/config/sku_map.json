@@ -1,0 +1,8 @@
+{
+    "apple": {"sku": "SKU00101", "price": 1.50},
+    "orange": {"sku": "SKU00102", "price": 0.75},
+    "broccoli": {"sku": "SKU00103", "price": 2.00},
+    "carrot": {"sku": "SKU00104", "price": 0.50},
+    "bottle": {"sku": "SKU00105", "price": 1.20},
+    "bowl": {"sku": "SKU00106", "price": 3.00}
+}
